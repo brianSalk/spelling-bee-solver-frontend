@@ -4,6 +4,8 @@ import sys
 import argparse
 import word_proc
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 # argparse stuff
 parser = argparse.ArgumentParser()
 parser.add_argument("--browser", help="Browser used to solve spellingbee, default is firefox", default='firefox')
@@ -12,21 +14,27 @@ parser.add_argument("-v", "--verbose", action="store_true", help='print words th
 parser.add_argument("-S","--no_solve",action="store_true", help='do not solve, only list words in terminal')
 args = parser.parse_args()
 
-def solve(browser, login=False):
-# validate arguments 
+def create_driver(browser):
     if browser == 'firefox':
         driver = selenium.webdriver.Firefox()
     elif browser == 'chrome':
         driver = selenium.webdriver.Chrome()
+    elif browser == 'edge':
+        driver = selenium.webdriver.Edge()
     else:
         print(f'unsupported browser called: {args.browser}')
         print(f'contact me at github or open an issue to get {args.browser} support')
         sys.exit(1)
+    return driver
 
-    if login: # loggin to NYT
-        driver.get('https://myaccount.nytimes.com/auth/enter-email?redirect_uri=https%3A%2F%2Fwww.nytimes.com%2Fpuzzles%2Fspelling-bee&amp;response_type=cookie&amp;client_id=games&amp;application=crosswords&amp;asset=navigation-bar')
-        input('press any button to continue after logging in ')
-
+def open_login_page(driver):
+    driver.get('https://myaccount.nytimes.com/auth/enter-email?redirect_uri=https%3A%2F%2Fwww.nytimes.com%2Fpuzzles%2Fspelling-bee&amp;response_type=cookie&amp;client_id=games&amp;application=crosswords&amp;asset=navigation-bar')
+    return driver 
+def solve(driver, login = False):
+    if login:
+        driver = open_login_page(driver)
+        wait = WebDriverWait(driver, 2_000)
+        wait.until(EC.url_to_be("https://www.nytimes.com/?login=email&auth=login-email"))
     url = 'https://www.nytimes.com/puzzles/spelling-bee'
     driver.get(url)
     time.sleep(7)

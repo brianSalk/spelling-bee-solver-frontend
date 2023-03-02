@@ -1,12 +1,21 @@
 import solve
 import streamlit as st
-browser = st.radio('browser used to solve spellingbee', ['firefox', 'chrome'])
-st.write(f'Sove todays spelling bee using {browser}')
-login = st.checkbox('I have a NYT account')
-if login:
-    st.write(f'you will be redirected to the NYT loggin page in a new {browser} window')
-if st.button('Solve todays spelling bee'):
-    if login:
-        st.write(f'Once you log into your account in the new {browser} window, click the checkbox below')
-        res = st.checkbox('I am logged in')
-    solve.solve(browser,login)
+browser = st.radio('Please select your default browser:', ['firefox', 'chrome', 'edge'])
+
+st.write(f'Solve todays spelling bee using {browser}')
+has_loggin = st.checkbox('I have a NYT account')
+if has_loggin:
+    st.write("After you click \"Solve!\", you will be prompted to loggin in the new browser window that appears.")
+else:
+    st.write("without a NYT account I can only complete some of the puzzle")
+
+# if clicked solve!
+if st.button("Solve!"):
+    try:
+        driver = solve.create_driver(browser)
+    except Exception:
+        st.write(f'cannot find the binary path for {browser}, try using a different browser or reconfiguring your path to {browser}')
+    try:
+        solve.solve(driver,has_loggin)
+    except Exception:
+        st.write("how did I do?")
