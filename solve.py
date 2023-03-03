@@ -32,7 +32,7 @@ def open_login_page(driver):
     driver.get('https://myaccount.nytimes.com/auth/enter-email?redirect_uri=https%3A%2F%2Fwww.nytimes.com%2Fpuzzles%2Fspelling-bee&amp;response_type=cookie&amp;client_id=games&amp;application=crosswords&amp;asset=navigation-bar')
     return driver 
 def solve():
-    driver = webdriver.Chrome()
+    driver = selenuium.webdriver.Chrome()
     url = 'https://www.nytimes.com/puzzles/spelling-bee'
     driver.get(url)
     time.sleep(2)
