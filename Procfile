@@ -1,1 +1,1 @@
-web: streamlit run spellingbee_solver.py
+web: bash setup.sh && streamlit run spellingbee_solver.py
