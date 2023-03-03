@@ -31,11 +31,8 @@ def create_driver(browser):
 def open_login_page(driver):
     driver.get('https://myaccount.nytimes.com/auth/enter-email?redirect_uri=https%3A%2F%2Fwww.nytimes.com%2Fpuzzles%2Fspelling-bee&amp;response_type=cookie&amp;client_id=games&amp;application=crosswords&amp;asset=navigation-bar')
     return driver 
-def solve(driver, login = False):
-    if login:
-        driver = open_login_page(driver)
-        wait = WebDriverWait(driver, 2_000)
-        wait.until(EC.url_to_be("https://www.nytimes.com/?login=email&auth=login-email"))
+def solve():
+    driver = webdriver.Chrome()
     url = 'https://www.nytimes.com/puzzles/spelling-bee'
     driver.get(url)
     time.sleep(2)
