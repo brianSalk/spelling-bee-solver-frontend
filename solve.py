@@ -59,4 +59,4 @@ def solve(driver, login = False):
     words = word_proc.get_words()
     good_words = word_proc.get_good_words(bad_letters, words,middle_letter)
     st.write(good_words)
-
+ 
