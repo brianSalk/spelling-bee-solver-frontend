@@ -3,6 +3,7 @@ import time
 import sys
 import argparse
 import word_proc
+import streamlit as st
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -57,20 +58,4 @@ def solve(driver, login = False):
     # get list of english dictionary words
     words = word_proc.get_words()
     good_words = word_proc.get_good_words(bad_letters, words,middle_letter)
-    if args.no_solve:
-        print(good_words)
-        sys.exit(0)
-    if args.verbose:
-        print(good_words)
-        
-
-    # find enter button
-    enter_button = driver.find_element(By.CLASS_NAME, 'hive-action__submit')
-
-    for word in good_words:
-        for char in word:
-            time.sleep(.5)
-            btns[char].click()    
-        time.sleep(1)
-        enter_button.click()
-        driver.execute_script("arguments[0].click();", enter_button)
+    st.write(good_words)
