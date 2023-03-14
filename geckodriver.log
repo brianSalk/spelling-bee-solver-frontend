@@ -7493,3 +7493,26 @@ JavaScript warning: https://cdn.js7k.com/rq/iv/inside.js, line 1: WEBGL_debug_re
 [GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1678832389312	geckodriver	INFO	Listening on 127.0.0.1:41977
+1678832389818	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50017" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilel0WPPQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678832390292	Marionette	INFO	Marionette enabled
+1678832390294	Marionette	INFO	Listening on port 41551
+Read port: 41551
+WebDriver BiDi listening on ws://127.0.0.1:50017
+1678832390393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilel0WPPQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50017/devtools/browser/02ec7279-d36c-4881-ac2a-ad54370ae220
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript error: https://www.nytimes.com/games-assets/v2/248.50d9798d9046bcb94877.js, line 1: Error: GET request to https://purr.nytimes.com/v1/purr-cache timed out
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sArRvrN6I189drjF6Of_TQ6Xi_0Jr1YUSK6Bd2dnyeI.js line 2 > eval line 1752 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+1678832414542	Marionette	INFO	Stopped listening on port 41551
