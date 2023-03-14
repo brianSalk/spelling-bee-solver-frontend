@@ -35,7 +35,6 @@ def solve():
     driver = selenium.webdriver.Chrome()
     url = 'https://www.nytimes.com/puzzles/spelling-bee'
     driver.get(url)
-    time.sleep(2)
     btns = driver.find_elements(By.TAG_NAME, 'button')
     found = False
     for btn in btns:
@@ -45,7 +44,6 @@ def solve():
             
     if not found:
         print('unable to get todays spelling-bee, please try again')
-    time.sleep(2)
 
     middle_letter = driver.find_element(By.XPATH,"//*[@class='cell-letter' or @class='center']")
     middle_letter = middle_letter.get_attribute('innerHTML')
