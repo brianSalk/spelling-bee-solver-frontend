@@ -1,0 +1,81 @@
+.hex, .hex2, .hex3, .hex4, .hex5, .hex6, .hex7 {
+		width: 150px;
+		height: 86.6px;
+		top: 40%;
+		background-color: yellow;
+		overflow: hidden;
+		border: none;
+		margin: 10 auto;
+		text-align: center;
+		padding-top: 50px;
+	}
+
+.hex:before, .hex2:before, .hex3:before, .hex4:before, .hex5:before, .hex6:before, .hex7:before {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	border-bottom: 43.3px solid yellow;
+	border-left: 75px solid #ccc;
+	border-right: 75px solid #ccc;
+	width: 0;
+	height: 0;
+}
+.hex:after, .hex2:after, .hex3:after, .hex4:after, .hex5:after, .hex6:after, .hex7:after {
+	content: "";
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	border-top: 43.3px solid yellow;
+	border-left: 75px solid #ccc;
+	border-right: 75px solid #ccc;
+	width: 0;
+	height: 0;
+}
+input {
+	position: absolute;
+	top: 32px;
+	left: 25px;
+	border: none;
+	background: none;
+	width: 100px;
+	height: 70px;
+	font-size: 16px;
+	font-family: Arial, sans-serif;
+	text-align: center;
+}
+.hex {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+}
+.hex2 {
+	position: absolute;
+	top: 30%;
+	left: 50%;
+}
+.hex3 {
+	position: absolute;
+	top: 70%;
+	left: 50%;
+}
+.hex4 {
+	position: absolute;
+	top: 40%;
+	left: 40%;
+}
+.hex5 {
+	position: absolute;
+	top: 60%;
+	left: 40%;
+}
+.hex6 {
+	position: absolute;
+	top: 40%;
+	left: 60%;
+}
+.hex7 {
+	position: absolute;
+	top: 60%;
+	left: 60%;
+}
