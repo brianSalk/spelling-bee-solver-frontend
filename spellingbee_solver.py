@@ -4,13 +4,14 @@ import streamlit as st
 import solve_custom
 
 if __name__ == "__main__":
-    st.title(":orange[Get the words for todays NYT spelling bee]")
+    st.markdown("<h style=\"color:#ffda00;font-size:50px;font-weight:bold;\">Get words for todays NYT Spelling Bee</h>", unsafe_allow_html = True)
     if st.button(f"get answers for spelling bee {datetime.date.today()}"):
         st.write("solving the spelling bee")
         solve.solve()
     vert_space = '<div style="padding: 100px 5px;"></div>'
     st.markdown(vert_space, unsafe_allow_html=True)
-    st.title("Get words for custom spelling bee")
+    st.markdown("<h style=\"color:#ffda00;font-size:50px;font-weight:bold;\">Get words for todays NYT Spelling Bee</h>", unsafe_allow_html = True)
+
     gl = st.text_input('good letters',max_chars=6)
     ml=st.text_input('middle letter', max_chars=1)
     gl += ml
