@@ -4,7 +4,7 @@ import streamlit as st
 import solve_custom
 
 if __name__ == "__main__":
-    st.title("Get the words to todays NYT spelling bee")
+    st.title(":orange[Get the words for todays NYT spelling bee]")
     if st.button(f"get answers for spelling bee {datetime.date.today()}"):
         st.write("solving the spelling bee")
         solve.solve()
