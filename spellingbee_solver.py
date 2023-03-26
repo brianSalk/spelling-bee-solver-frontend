@@ -10,7 +10,7 @@ if __name__ == "__main__":
         solve.solve()
     vert_space = '<div style="padding: 100px 5px;"></div>'
     st.markdown(vert_space, unsafe_allow_html=True)
-    st.markdown("<h style=\"color:#ffda00;font-size:50px;font-weight:bold;\">Get words for todays NYT Spelling Bee</h>", unsafe_allow_html = True)
+    st.markdown("<h style=\"color:#ffda00;font-size:50px;font-weight:bold;\">Solve A Custom Spelling Bee</h>", unsafe_allow_html = True)
 
     gl = st.text_input('good letters',max_chars=6)
     ml=st.text_input('middle letter', max_chars=1)
