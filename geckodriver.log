@@ -8088,3 +8088,96 @@ JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error:
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1691074809061	geckodriver	INFO	Listening on 127.0.0.1:35945
+1691074809570	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "56055" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuc9shx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691074810032	Marionette	INFO	Marionette enabled
+1691074810104	Marionette	INFO	Listening on port 34367
+WebDriver BiDi listening on ws://127.0.0.1:56055
+Read port: 34367
+1691074810368	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56055/devtools/browser/864dd80e-6a8e-4c99-b300-a57c34d0ef02
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YWyqd_Oya_dSvH525JbJDwnpcpeKFun9cRHY8jAJ9QQ.js line 2 > eval line 6886 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.nytimes.com/games-assets/v2/9270.e07506b053c0f496668b.js, line 2: Script terminated by timeout at:
+6633/g/<@https://www.nytimes.com/games-assets/v2/9270.e07506b053c0f496668b.js:2:122882
+e@https://www.nytimes.com/games-assets/v2/9270.e07506b053c0f496668b.js:2:122743
+
+1691074828240	Marionette	INFO	Stopped listening on port 34367
+1691074876729	geckodriver	INFO	Listening on 127.0.0.1:51045
+1691074877233	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "59537" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6dRCIC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691074877679	Marionette	INFO	Marionette enabled
+1691074877751	Marionette	INFO	Listening on port 40719
+WebDriver BiDi listening on ws://127.0.0.1:59537
+Read port: 40719
+1691074877995	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59537/devtools/browser/3e623bc8-ff24-4b9d-b95d-1a4d2e92b2d2
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YWyqd_Oya_dSvH525JbJDwnpcpeKFun9cRHY8jAJ9QQ.js line 2 > eval line 7590 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1691074945636	geckodriver	INFO	Listening on 127.0.0.1:46213
+1691074946141	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "42007" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesBLSdf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691074946587	Marionette	INFO	Marionette enabled
+1691074946670	Marionette	INFO	Listening on port 40057
+WebDriver BiDi listening on ws://127.0.0.1:42007
+Read port: 40057
+1691074946942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:42007/devtools/browser/64894c88-7089-49d5-802e-daf96a7758f9
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+1691074949117	Marionette	INFO	Stopped listening on port 40057
+JavaScript error: resource://gre/modules/UrlClassifierListManager.sys.mjs, line 720: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1691074954359	geckodriver	INFO	Listening on 127.0.0.1:34017
+1691074954871	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "56159" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekXuFry"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691074955320	Marionette	INFO	Marionette enabled
+1691074955397	Marionette	INFO	Listening on port 44623
+WebDriver BiDi listening on ws://127.0.0.1:56159
+Read port: 44623
+1691074955665	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56159/devtools/browser/f5f6881d-db2b-474c-bf30-d5bfe760dac3
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+1691074958009	Marionette	INFO	Stopped listening on port 44623
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed

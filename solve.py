@@ -32,10 +32,12 @@ def open_login_page(driver):
     driver.get('https://myaccount.nytimes.com/auth/enter-email?redirect_uri=https%3A%2F%2Fwww.nytimes.com%2Fpuzzles%2Fspelling-bee&amp;response_type=cookie&amp;client_id=games&amp;application=crosswords&amp;asset=navigation-bar')
     return driver 
 def solve():
-    driver = selenium.webdriver.Chrome()
+    driver = selenium.webdriver.Firefox() # FIX
     url = 'https://www.nytimes.com/puzzles/spelling-bee'
     driver.get(url)
-    btns = WebDriverWait(driver,5).until(EC.presence_of_all_elements_located((By.CLASS_NAME,'button'))) # driver.find_elements(By.TAG_NAME, 'button')
+    element = driver.find_element(By.XPATH,"//div[@class='purr-blocker-card pz-hide-games-app pz-hide-newsreader']")
+    driver.execute_script("arguments[0].style.visibility='hidden'", element)
+    btns = driver.find_elements(By.TAG_NAME, 'button')
     found = False
     for btn in btns:
         if btn.text.lower() == 'play':
@@ -45,8 +47,6 @@ def solve():
     if not found:
         print('unable to get todays spelling-bee, please try again')
 
-    element = driver.find_element(By.XPATH,"//div[@class='purr-blocker-card pz-hide-games-app pz-hide-newsreader']")
-    driver.execute_script("arguments[0].style.visibility='hidden'", element)
 
     middle_letter = driver.find_element(By.XPATH,"//*[@class='cell-letter' or @class='center']")
     middle_letter = middle_letter.get_attribute('innerHTML')
