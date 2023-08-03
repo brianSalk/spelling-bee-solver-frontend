@@ -36,8 +36,6 @@ def solve():
     url = 'https://www.nytimes.com/puzzles/spelling-bee'
     driver.get(url)
     btns = driver.find_elements(By.TAG_NAME, 'button')
-    element = driver.find_element(By.XPATH,"//div[@class='purr-blocker-card pz-hide-games-app pz-hide-newsreader']")
-    driver.execute_script("arguments[0].style.visibility='hidden'", element)
     found = False
     for btn in btns:
         if btn.text.lower() == 'play':
@@ -46,6 +44,9 @@ def solve():
             
     if not found:
         print('unable to get todays spelling-bee, please try again')
+
+    element = driver.find_element(By.XPATH,"//div[@class='purr-blocker-card pz-hide-games-app pz-hide-newsreader']")
+    driver.execute_script("arguments[0].style.visibility='hidden'", element)
 
     middle_letter = driver.find_element(By.XPATH,"//*[@class='cell-letter' or @class='center']")
     middle_letter = middle_letter.get_attribute('innerHTML')
