@@ -35,6 +35,7 @@ def solve():
     driver = selenium.webdriver.Chrome() 
     url = 'https://www.nytimes.com/puzzles/spelling-bee'
     driver.get(url)
+    time.sleep(2)
     element = driver.find_element(By.XPATH,"//div[@class='purr-blocker-card pz-hide-games-app pz-hide-newsreader']")
     driver.execute_script("arguments[0].style.visibility='hidden'", element)
     btns = driver.find_elements(By.TAG_NAME, 'button')

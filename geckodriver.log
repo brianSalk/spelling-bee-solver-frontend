@@ -8181,3 +8181,25 @@ DevTools listening on ws://127.0.0.1:56159/devtools/browser/f5f6881d-db2b-474c-b
 [GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
 1691074958009	Marionette	INFO	Stopped listening on port 44623
 JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1691076096637	geckodriver	INFO	Listening on 127.0.0.1:49167
+1691076097141	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "53461" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileK7WbP9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691076097642	Marionette	INFO	Marionette enabled
+1691076097708	Marionette	INFO	Listening on port 33143
+WebDriver BiDi listening on ws://127.0.0.1:53461
+Read port: 33143
+1691076097944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53461/devtools/browser/d378c975-34c1-4a31-a61a-f32791abfae2
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YWyqd_Oya_dSvH525JbJDwnpcpeKFun9cRHY8jAJ9QQ.js line 2 > eval line 2547 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+1691076101967	Marionette	INFO	Stopped listening on port 33143
+JavaScript warning: https://www.nytimes.com/games-assets/v2/9270.e07506b053c0f496668b.js, line 2: Script terminated by timeout at:
+o@https://www.nytimes.com/games-assets/v2/9270.e07506b053c0f496668b.js:2:51704
+
