@@ -32,12 +32,18 @@ def open_login_page(driver):
     driver.get('https://myaccount.nytimes.com/auth/enter-email?redirect_uri=https%3A%2F%2Fwww.nytimes.com%2Fpuzzles%2Fspelling-bee&amp;response_type=cookie&amp;client_id=games&amp;application=crosswords&amp;asset=navigation-bar')
     return driver 
 def solve():
-    driver = selenium.webdriver.Chrome() 
-    url = 'https://www.nytimes.com/puzzles/spelling-bee'
-    driver.get(url)
-    time.sleep(2)
-    element = driver.find_element(By.XPATH,"//div[@class='purr-blocker-card pz-hide-games-app pz-hide-newsreader']")
-    driver.execute_script("arguments[0].style.visibility='hidden'", element)
+    while True:
+        try:
+            driver = selenium.webdriver.Chrome() 
+            url = 'https://www.nytimes.com/puzzles/spelling-bee'
+            driver.get(url)
+            time.sleep(2)
+            element = driver.find_element(By.XPATH,"//div[@class='purr-blocker-card pz-hide-games-app pz-hide-newsreader']")
+            driver.execute_script("arguments[0].style.visibility='hidden'", element)
+        except Exception:
+            time.sleep(1)
+            continue
+        break
     btns = driver.find_elements(By.TAG_NAME, 'button')
     found = False
     for btn in btns:
