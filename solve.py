@@ -35,7 +35,7 @@ def solve():
     driver = selenium.webdriver.Chrome()
     url = 'https://www.nytimes.com/puzzles/spelling-bee'
     driver.get(url)
-    btns = driver.find_elements(By.TAG_NAME, 'button')
+    btns = WebDriverWait(driver,5).until(EC.presence_of_all_elements_located((By.CLASS_NAME,'button'))) # driver.find_elements(By.TAG_NAME, 'button')
     found = False
     for btn in btns:
         if btn.text.lower() == 'play':
