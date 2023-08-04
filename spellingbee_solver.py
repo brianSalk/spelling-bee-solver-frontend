@@ -25,5 +25,6 @@ if __name__ == "__main__":
         st.title("created by Brian Salkas")
         st.header("Contribute")
         st.write("missing a word and/or contains invalid word?")
+        st.write("app not working?")
         st.write("open an issue or submit a pull request [here](https://github.com/brianSalk/spelling-bee-solver-frontend)")
 
