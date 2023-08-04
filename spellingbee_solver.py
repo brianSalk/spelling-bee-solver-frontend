@@ -8,7 +8,7 @@ if __name__ == "__main__":
     MIDDLE_LETTER = 'middle letter'
     st.markdown("<h style=\"color:#ffda00;font-size:50px;font-weight:bold;\">Get words for todays NYT Spelling Bee</h>", unsafe_allow_html = True)
     if st.button(f"get answers for spelling bee {datetime.date.today()}"):
-        st.write("solving the spelling bee")
+        st.write("solving todays spelling bee, this could take a while...")
         solve.solve()
     vert_space = '<div style="padding: 100px 5px;"></div>'
     st.markdown(vert_space, unsafe_allow_html=True)
