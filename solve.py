@@ -37,6 +37,7 @@ def solve():
         url = 'https://www.nytimes.com/puzzles/spelling-bee'
         driver.get(url)
         time.sleep(2)
+        # commented out section is for the purr-blocker, I think it is some anit-scraping thing
         """
         element = driver.find_element(By.XPATH,"//div[@class='purr-blocker-card pz-hide-games-app pz-hide-newsreader']")
         driver.execute_script("arguments[0].style.visibility='hidden'", element)
@@ -47,7 +48,6 @@ def solve():
     btns = driver.find_elements(By.TAG_NAME, 'button')
     found = False
     for btn in btns:
-        print(btn.text.lower())
         if btn.text.lower() == 'play':
             found = True
             driver.execute_script("arguments[0].click();",btn)
@@ -55,13 +55,10 @@ def solve():
     if not found:
         print('unable to get todays spelling-bee, please try again')
 
-    print('clicked play')
     middle_letter = driver.find_element(By.XPATH,"//*[@class='cell-letter' or @class='center']")
     middle_letter = middle_letter.get_attribute('innerHTML')
-    print('middle letter is: ', middle_letter)
 
     good_letters, btns = word_proc.get_good_letters_and_buttons(driver)
-    print('good letters are: ', good_letters)
     bad_letters = word_proc.get_bad_letters(good_letters)
     # get list of english dictionary words
     words = word_proc.get_words()
