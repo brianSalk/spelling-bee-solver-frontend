@@ -8203,3 +8203,891 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg/YWyqd_Oya_dSvH525Jb
 JavaScript warning: https://www.nytimes.com/games-assets/v2/9270.e07506b053c0f496668b.js, line 2: Script terminated by timeout at:
 o@https://www.nytimes.com/games-assets/v2/9270.e07506b053c0f496668b.js:2:51704
 
+1701275902744	geckodriver	INFO	Listening on 127.0.0.1:57481
+1701275903250	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "44109" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile14RP0z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701275903653	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701275903739	Marionette	INFO	Listening on port 41771
+WebDriver BiDi listening on ws://127.0.0.1:44109
+Read port: 41771
+1701275903876	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:44109/devtools/browser/78f0f87d-cddf-454e-a87a-b2b0dd7407ae
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval line 486 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+1701275908722	geckodriver	INFO	Listening on 127.0.0.1:43179
+1701275909229	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "56655" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletePVsA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701275909630	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701275909724	Marionette	INFO	Listening on port 39495
+Read port: 39495
+WebDriver BiDi listening on ws://127.0.0.1:56655
+1701275909788	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56655/devtools/browser/86de2aa0-b1f8-4f10-bdb1-51e82fa844fc
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval line 2952 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+1701275921865	geckodriver	INFO	Listening on 127.0.0.1:33861
+1701275922370	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "34591" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile43DceN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701275922853	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701275922954	Marionette	INFO	Listening on port 38243
+WebDriver BiDi listening on ws://127.0.0.1:34591
+Read port: 38243
+1701275923073	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:34591/devtools/browser/83774fbd-3cc5-4618-8f4a-93a5ec169465
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval line 3926 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+1701275927844	geckodriver	INFO	Listening on 127.0.0.1:57125
+1701275928350	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "58473" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegyV0pq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701275928820	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701275928930	Marionette	INFO	Listening on port 35515
+WebDriver BiDi listening on ws://127.0.0.1:58473
+Read port: 35515
+1701275929073	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58473/devtools/browser/d6fb4f4c-d76f-4662-9631-597dc66bc2e3
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js, line 2: Script terminated by timeout at:
+6633/g/<@https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js:2:167687
+t@https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js:2:167548
+
+1701275931100	Marionette	INFO	Stopped listening on port 35515
+JavaScript warning: https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js, line 2: Script terminated by timeout at:
+6633/g/<@https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js:2:167687
+t@https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js:2:167548
+
+1701275932792	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1701275932942	Marionette	INFO	Stopped listening on port 38243
+JavaScript warning: https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js, line 2: Script terminated by timeout at:
+6633/g/<@https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js:2:167687
+t@https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js:2:167548
+
+1701275933636	Marionette	INFO	Stopped listening on port 39495
+1701275933692	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701275933836	geckodriver	INFO	Listening on 127.0.0.1:33957
+1701275934346	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "60111" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileaQsHzU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701275934861	Marionette	INFO	Marionette enabled
+JavaScript warning: https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js, line 2: Script terminated by timeout at:
+6633/g/<@https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js:2:167687
+t@https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js:2:167548
+
+1701275934976	Marionette	INFO	Listening on port 43211
+WebDriver BiDi listening on ws://127.0.0.1:60111
+Read port: 43211
+1701275935132	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1701275935199	Marionette	INFO	Stopped listening on port 41771
+console.warn: services.settings: main/doh-config sync interrupted by shutdown
+console.warn: services.settings: main/devtools-devices sync interrupted by shutdown
+console.warn: services.settings: main/websites-with-shared-credential-backends sync interrupted by shutdown
+console.warn: services.settings: main/addons-manager-settings sync interrupted by shutdown
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.warn: services.settings: main/search-telemetry-v2 sync interrupted by shutdown
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60111/devtools/browser/5a55da69-206e-4509-ae24-1f27a3bd8f87
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js, line 2: Script terminated by timeout at:
+6633/g/<@https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js:2:167687
+t@https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js:2:167548
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval line 1403 > eval, line 1: Script terminated by timeout at:
+QS@https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval line 1403 > eval:1:27
+l0/Z.uA<@https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval:1403:19111
+w5@https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval:1403:15814
+i0@https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval:1403:26451
+@https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval:1403:37805
+fD@https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval:1403:14945
+QG@https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval:1403:926
+u@https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval:1403:10027
+QG/<@https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval:1403:996
+nD</<@https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval:1403:35408
+
+1701275938047	Marionette	INFO	Stopped listening on port 43211
+1701275938921	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1701275983160	geckodriver	INFO	Listening on 127.0.0.1:60657
+1701275983662	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "38827" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekJxn5R"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701275984125	Marionette	INFO	Marionette enabled
+1701275984215	Marionette	INFO	Listening on port 42463
+WebDriver BiDi listening on ws://127.0.0.1:38827
+Read port: 42463
+1701275984361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:38827/devtools/browser/7928d78a-8927-440e-8c93-e3030c17c3cd
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval line 7627 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+1701275990220	geckodriver	INFO	Listening on 127.0.0.1:34843
+1701275990726	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "41679" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileoN9QUL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701275991140	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701275991224	Marionette	INFO	Listening on port 37115
+Read port: 37115
+WebDriver BiDi listening on ws://127.0.0.1:41679
+1701275991292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:41679/devtools/browser/458d84ae-a18e-4b72-8cfc-233d4e50deb4
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval line 6886 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js, line 2: Script terminated by timeout at:
+6633/g/<@https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js:2:167687
+t@https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js:2:167548
+
+1701275995148	Marionette	INFO	Stopped listening on port 37115
+1701275995379	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+[ERROR glean_core] Can't persist ping lifetime data: Error { kind: Rkv(IoError(Os { code: 2, kind: NotFound, message: "No such file or directory" })) }
+1701275996422	geckodriver	INFO	Listening on 127.0.0.1:45033
+JavaScript warning: https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js, line 2: Script terminated by timeout at:
+6633/g/<@https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js:2:167687
+t@https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js:2:167548
+
+1701275996814	Marionette	INFO	Stopped listening on port 42463
+1701275996928	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "45619" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilecP0WEk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701275997350	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701275997451	Marionette	INFO	Listening on port 42707
+WebDriver BiDi listening on ws://127.0.0.1:45619
+Read port: 42707
+1701275997569	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:45619/devtools/browser/413219fb-a8cc-4f6a-a666-eb060cbf651c
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+1701275999788	Marionette	INFO	Stopped listening on port 42707
+1701276078067	geckodriver	INFO	Listening on 127.0.0.1:38281
+1701276078571	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "41537" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCtgY9V"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701276079030	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701276079131	Marionette	INFO	Listening on port 34683
+WebDriver BiDi listening on ws://127.0.0.1:41537
+Read port: 34683
+1701276079267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:41537/devtools/browser/a60a21ce-dfd8-4fa5-ab04-f64fe5682c37
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval line 6390 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+1701276084302	geckodriver	INFO	Listening on 127.0.0.1:52217
+1701276084808	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "33105" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletqEuVF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701276085211	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701276085328	Marionette	INFO	Listening on port 43087
+WebDriver BiDi listening on ws://127.0.0.1:33105
+Read port: 43087
+1701276085470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:33105/devtools/browser/5c46f08d-7b2e-44a4-a611-2dc5cfed6032
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval line 6609 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+1701276090493	geckodriver	INFO	Listening on 127.0.0.1:49855
+1701276090999	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "54883" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejvJc8Y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701276091411	Marionette	INFO	Marionette enabled
+1701276091498	Marionette	INFO	Listening on port 34261
+Read port: 34261
+WebDriver BiDi listening on ws://127.0.0.1:54883
+1701276091580	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54883/devtools/browser/2447ace1-6763-45a2-9fff-f13b94e12516
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: Script terminated by timeout at:
+@https://dd.nytimes.com/tags.js:2:130155
+r@https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js:2:118072
+
+1701276093026	Marionette	INFO	Stopped listening on port 43087
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 274: Script terminated by timeout at:
+Am@https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x:274:351
+Em@https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x:274:616
+iz@https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x:465:27
+@https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x:569:185
+yf@https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x:148:199
+zf@https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x:149:279
+Af@https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x:148:424
+Bf@https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x:151:139
+If/<@https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x:152:192
+Jf@https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x:151:1373
+Kf@https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x:151:1133
+Qw@https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x:436:135
+Mx@https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x:450:272
+Px@https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x:455:57
+Rx@https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x:456:43
+r@https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js:2:118072
+
+1701276093943	Marionette	INFO	Stopped listening on port 34261
+JavaScript warning: https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js, line 2: Script terminated by timeout at:
+6633/g/<@https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js:2:167687
+t@https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js:2:167548
+
+1701276095043	Marionette	INFO	Stopped listening on port 34683
+1701276095946	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1701276136299	geckodriver	INFO	Listening on 127.0.0.1:55565
+1701276136803	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "57185" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekW66j4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701276137223	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701276137315	Marionette	INFO	Listening on port 44631
+WebDriver BiDi listening on ws://127.0.0.1:57185
+Read port: 44631
+1701276137453	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57185/devtools/browser/57d06c08-585e-432a-9e88-f60d632ced62
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval line 4431 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+1701276142499	Marionette	INFO	Stopped listening on port 44631
+JavaScript warning: https://cdn.ampproject.org/rtv/012310301456000/amp4ads-v0.mjs, line 2: Script terminated by timeout at:
+xh@https://cdn.ampproject.org/rtv/012310301456000/amp4ads-v0.mjs:2:166676
+@https://cdn.ampproject.org/rtv/012310301456000/amp4ads-v0.mjs:2:191494
+
+1701276158229	geckodriver	INFO	Listening on 127.0.0.1:48179
+1701276158734	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "43059" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileezpIfD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701276159172	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701276159265	Marionette	INFO	Listening on port 42281
+WebDriver BiDi listening on ws://127.0.0.1:43059
+Read port: 42281
+1701276159399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:43059/devtools/browser/ff2b96ff-a764-4c07-9b4c-ae45a41a6579
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval line 3975 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+1701276164653	Marionette	INFO	Stopped listening on port 42281
+JavaScript warning: https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js, line 2: Script terminated by timeout at:
+r@https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js:2:117933
+
+1701276196186	geckodriver	INFO	Listening on 127.0.0.1:47123
+1701276196691	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "45619" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileeLEMKe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701276197140	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701276197235	Marionette	INFO	Listening on port 40329
+WebDriver BiDi listening on ws://127.0.0.1:45619
+Read port: 40329
+1701276197368	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:45619/devtools/browser/6a772c31-8ab0-4aa7-b512-a250ef80e4d3
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval line 1159 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+1701276202380	Marionette	INFO	Stopped listening on port 40329
+JavaScript warning: https://cdn.ampproject.org/rtv/012310301456000/amp4ads-v0.mjs, line 2: Script terminated by timeout at:
+xh@https://cdn.ampproject.org/rtv/012310301456000/amp4ads-v0.mjs:2:166676
+@https://cdn.ampproject.org/rtv/012310301456000/amp4ads-v0.mjs:2:191494
+
+1701276268518	geckodriver	INFO	Listening on 127.0.0.1:34585
+1701276269024	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "38867" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuSGgrJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701276269440	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701276269547	Marionette	INFO	Listening on port 37985
+WebDriver BiDi listening on ws://127.0.0.1:38867
+Read port: 37985
+1701276269692	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:38867/devtools/browser/f0df6f69-4f5c-403b-9a99-9d8b9289a44f
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval line 3935 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+1701276300672	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal15032385557/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:447:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal27917287425/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:447:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal27917287425/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:84:30\ninitialize@resource://devtools/client/fronts/inspector.js:73:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal19327352859/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:447:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal15032385558/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:447:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal19327352873/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:447:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal30064771073/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:447:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal32212254721/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:447:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal19327352875/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:447:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Listener for event 'frame' did not return a promise."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1701276324109	geckodriver	INFO	Listening on 127.0.0.1:57091
+1701276324616	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "34181" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJV218B"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701276325073	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701276325175	Marionette	INFO	Listening on port 37899
+WebDriver BiDi listening on ws://127.0.0.1:34181
+Read port: 37899
+1701276325310	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:34181/devtools/browser/3e5af30a-5678-43ef-b0e3-651d9dfef945
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval line 1832 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+1701276329238	Marionette	INFO	Stopped listening on port 37899
+JavaScript warning: https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js, line 2: Script terminated by timeout at:
+r@https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js:2:117933
+
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+1701276346145	geckodriver	INFO	Listening on 127.0.0.1:39909
+1701276346649	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "35245" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegeTrLX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701276347145	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701276347259	Marionette	INFO	Listening on port 45409
+WebDriver BiDi listening on ws://127.0.0.1:35245
+Read port: 45409
+1701276347369	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:35245/devtools/browser/42ee47dc-cfd4-4aa4-bb18-b7cb66c6ca13
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval line 5594 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+1701276351311	Marionette	INFO	Stopped listening on port 45409
+JavaScript warning: https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js, line 2: Script terminated by timeout at:
+r@https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js:2:117933
+
+1701276374823	geckodriver	INFO	Listening on 127.0.0.1:35493
+1701276375329	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "37867" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFpEHDW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701276375740	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701276375834	Marionette	INFO	Listening on port 42543
+WebDriver BiDi listening on ws://127.0.0.1:37867
+Read port: 42543
+1701276375971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:37867/devtools/browser/10278727-885b-4d28-9b60-26b689d4318e
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval line 4207 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+1701276380106	Marionette	INFO	Stopped listening on port 42543
+JavaScript warning: https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js, line 2: Script terminated by timeout at:
+r@https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js:2:117933
+
+1701276390827	geckodriver	INFO	Listening on 127.0.0.1:36771
+1701276391333	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "46389" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCCpmZJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701276391745	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701276391860	Marionette	INFO	Listening on port 44571
+WebDriver BiDi listening on ws://127.0.0.1:46389
+Read port: 44571
+1701276392011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:46389/devtools/browser/1c72567d-c7bf-4b4f-b90f-7febd03b0051
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval line 1074 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript error: https://f4c8b8c17a5a2e1228100b25116f8af6.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html, line 399: SyntaxError: expected expression, got ','
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+1701276396054	Marionette	INFO	Stopped listening on port 44571
+JavaScript warning: https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js, line 2: Script terminated by timeout at:
+r@https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js:2:117933
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1701276451160	geckodriver	INFO	Listening on 127.0.0.1:34255
+1701276451667	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "58073" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileI0Vwkk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701276452082	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701276452201	Marionette	INFO	Listening on port 41111
+WebDriver BiDi listening on ws://127.0.0.1:58073
+Read port: 41111
+1701276452325	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58073/devtools/browser/49bcacd3-c832-42f2-bb43-cfd17cc51fef
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval line 5553 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+1701276456514	Marionette	INFO	Stopped listening on port 41111
+1701276614402	geckodriver	INFO	Listening on 127.0.0.1:38137
+1701276614908	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "40329" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3EXfU9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701276615371	Marionette	INFO	Marionette enabled
+1701276615471	Marionette	INFO	Listening on port 37991
+WebDriver BiDi listening on ws://127.0.0.1:40329
+Read port: 37991
+1701276615605	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:40329/devtools/browser/812762c8-6278-471c-b4f1-8d358258647f
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval line 5301 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+1701276620317	Marionette	INFO	Stopped listening on port 37991
+JavaScript warning: https://tpc.googlesyndication.com/sodar/sodar2/225/runner.html, line 26: Script terminated by timeout at:
+ra/</<@https://tpc.googlesyndication.com/sodar/sodar2/225/runner.html:26:93
+
+JavaScript warning: https://tpc.googlesyndication.com/sodar/sodar2.js, line 36: Script terminated by timeout at:
+Ia/</</h.port1.onmessage@https://tpc.googlesyndication.com/sodar/sodar2.js:36:208
+
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+1701276649987	geckodriver	INFO	Listening on 127.0.0.1:48937
+1701276650492	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "34685" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilev351m6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701276650905	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701276651016	Marionette	INFO	Listening on port 45203
+WebDriver BiDi listening on ws://127.0.0.1:34685
+Read port: 45203
+1701276651175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:34685/devtools/browser/5c36dc38-cd0f-4884-8004-48e0f9cee5c8
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval line 2543 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+1701276681102	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701276722192	geckodriver	INFO	Listening on 127.0.0.1:36631
+1701276722698	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "34629" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3w46gH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701276723147	Marionette	INFO	Marionette enabled
+1701276723260	Marionette	INFO	Listening on port 43065
+WebDriver BiDi listening on ws://127.0.0.1:34629
+Read port: 43065
+1701276723381	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:34629/devtools/browser/3a3442dd-78b4-4f09-9ebf-37e7928710b8
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval line 1682 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js, line 2: Script terminated by timeout at:
+6633/g/<@https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js:2:167687
+t@https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js:2:167548
+
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+1701276727367	Marionette	INFO	Stopped listening on port 45203
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+1701276753936	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701276808207	geckodriver	INFO	Listening on 127.0.0.1:37665
+1701276808712	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "39897" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWbSUBd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701276809133	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701276809256	Marionette	INFO	Listening on port 46391
+WebDriver BiDi listening on ws://127.0.0.1:39897
+Read port: 46391
+1701276809411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:39897/devtools/browser/1691d0ef-7626-4c0d-b3c8-2ef472c12410
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval line 4587 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N5P6T9S&l=dataLayer, line 1: unreachable code after return statement
+1701276813570	Marionette	INFO	Stopped listening on port 46391
+1701276823063	geckodriver	INFO	Listening on 127.0.0.1:33215
+1701276823568	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "49253" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9J2GNU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701276823993	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701276824095	Marionette	INFO	Listening on port 44999
+WebDriver BiDi listening on ws://127.0.0.1:49253
+Read port: 44999
+1701276824236	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49253/devtools/browser/4f1b1b33-1381-408b-8074-0b16c3e2440f
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: REMBRANDT
+JavaScript warning: https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js, line 2: Script terminated by timeout at:
+6633/g/<@https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js:2:167687
+t@https://www.nytimes.com/games-assets/v2/3943.ab764fca4648f0aa7d6e.js:2:167548
+
+1701276826478	Marionette	INFO	Stopped listening on port 44999
+1701276827997	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
