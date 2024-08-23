@@ -44,8 +44,9 @@ def solve():
         element = driver.find_element(By.XPATH,"//div[@class='purr-blocker-card pz-hide-games-app pz-hide-newsreader']")
         driver.execute_script("arguments[0].style.visibility='hidden'", element)
         """
-    except Exception:
-        print('unable to open browser, please check your browser and try again')
+    except Exception as e:
+        print(f'Unable to open browser, please check your browser and try again. {e}')
+        print(e)
         time.sleep(3)
     btns = driver.find_elements(By.TAG_NAME, 'button')
     found = False
