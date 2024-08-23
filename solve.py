@@ -32,10 +32,15 @@ def open_login_page(driver):
     driver.get('https://myaccount.nytimes.com/auth/enter-email?redirect_uri=https%3A%2F%2Fwww.nytimes.com%2Fpuzzles%2Fspelling-bee&amp;response_type=cookie&amp;client_id=games&amp;application=crosswords&amp;asset=navigation-bar')
     return driver 
 def solve():
+    from selenium.webdriver.chrome.options import Options
+    # setup chrome options 
+    options = Options()
+    options.add_argument('--no-sandbox')
+    options.add_argument('--headless')
     st.write('opening chrome')
     driver = None
     try:
-        driver = selenium.webdriver.Chrome() # switch back to Chrome
+        driver = selenium.webdriver.Chrome(options=options) # switch back to Chrome
         url = 'https://www.nytimes.com/puzzles/spelling-bee'
         driver.get(url)
         time.sleep(2)
