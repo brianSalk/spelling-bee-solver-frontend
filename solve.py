@@ -32,8 +32,9 @@ def open_login_page(driver):
     driver.get('https://myaccount.nytimes.com/auth/enter-email?redirect_uri=https%3A%2F%2Fwww.nytimes.com%2Fpuzzles%2Fspelling-bee&amp;response_type=cookie&amp;client_id=games&amp;application=crosswords&amp;asset=navigation-bar')
     return driver 
 def solve():
-    driver = selenium.webdriver.Chrome() # switch back to Chrome
+    st.write('opening chrome')
     try:
+        driver = selenium.webdriver.Chrome() # switch back to Chrome
         url = 'https://www.nytimes.com/puzzles/spelling-bee'
         driver.get(url)
         time.sleep(2)
@@ -64,6 +65,7 @@ def solve():
     words = word_proc.get_words()
     good_words = word_proc.get_good_words(bad_letters, words,middle_letter)
     st.write(good_words) # uncomment
+    print(good_words)
     driver.close()
  
 if __name__ == '__main__':
