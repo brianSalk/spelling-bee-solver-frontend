@@ -33,6 +33,7 @@ def open_login_page(driver):
     return driver 
 def solve():
     st.write('opening chrome')
+    driver = None
     try:
         driver = selenium.webdriver.Chrome() # switch back to Chrome
         url = 'https://www.nytimes.com/puzzles/spelling-bee'
