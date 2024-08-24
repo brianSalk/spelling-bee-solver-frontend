@@ -7,7 +7,7 @@ import streamlit as st
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdrivermanager.chrome import ChromeDriverManager
 # argparse stuff
 parser = argparse.ArgumentParser()
 parser.add_argument("--browser", help="Browser used to solve spellingbee, default is firefox", default='firefox')
