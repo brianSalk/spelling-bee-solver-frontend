@@ -7,6 +7,7 @@ import streamlit as st
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from webdriver_manager.chrome import ChromeDriverManager
 # argparse stuff
 parser = argparse.ArgumentParser()
 parser.add_argument("--browser", help="Browser used to solve spellingbee, default is firefox", default='firefox')
@@ -40,7 +41,7 @@ def solve():
     st.write('opening chrome')
     driver = None
     try:
-        driver = selenium.webdriver.Chrome(options=options) # switch back to Chrome
+        driver = selenium.webdriver.Chrome(service=Service(ChromeDriverManager().install()),options=options) # switch back to Chrome
         url = 'https://www.nytimes.com/puzzles/spelling-bee'
         driver.get(url)
         time.sleep(2)
