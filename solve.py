@@ -4,6 +4,7 @@ import sys
 import argparse
 import word_proc
 import streamlit as st
+import format_words
 from driver_stuff import get_chrome_webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -82,7 +83,7 @@ def solve():
     st.write(f'outerletters: :green[{outer_letters}]')
 
     st.write(f'middle letter: :orange[{middle_letter.upper()}]')
-    st.write(good_words)
+    format_words.format_words(good_words, good_letters, middle_letter)
     print(good_words)
     driver.close()
  
