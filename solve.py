@@ -4,7 +4,7 @@ import sys
 import argparse
 import word_proc
 import streamlit as st
-from driver_stuff import get_chrome_driver
+from driver_stuff import get_chrome_webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
