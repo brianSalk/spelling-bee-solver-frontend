@@ -39,13 +39,11 @@ def solve():
     options = Options()
     options.add_argument('--no-sandbox')
     options.add_argument('--headless')
-    st.write('opening chrome')
     driver = None
     try:
         driver = get_chrome_webdriver() # switch back to Chrome
         url = 'https://www.nytimes.com/puzzles/spelling-bee'
         driver.get(url)
-        st.write('opened the page')
         time.sleep(2)
         # commented out section is for the purr-blocker, I think it is some anit-scraping thing
         """
