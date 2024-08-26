@@ -11,7 +11,7 @@ def solve(good, middle_letter, ml_label, ol_label):
         st.write(f"please indicate {ml_label}")
         return 1;
     if len(good) != 7:
-        st.write("please enter 6 characters into '{ol_label}' and one letter into '{ml_label}'")
+        st.write(f"There must be 1 {ol_label} and 6 {ml_label}")
         return 1
     if not re.match(r'^[a-zA-Z]+$',good):
         st.write("please only enter letters for custom board")
