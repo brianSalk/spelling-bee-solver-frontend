@@ -73,6 +73,15 @@ def solve():
     # get list of english dictionary words
     words = word_proc.get_words()
     good_words = word_proc.get_good_words(bad_letters, words,middle_letter)
+    # print hive
+    outer_letters = ""
+    for letter in good_letters:
+        if letter != middle_letter:
+            outer_letters += letter.upper()
+            outer_letters += " "
+    st.write('outerletters:', f':grey[{outer_letters}]')
+
+    st.write('middle letter', f':orange[{middle_letter.upper()}]')
     st.write(good_words)
     print(good_words)
     driver.close()
