@@ -52,10 +52,10 @@ def solve():
         """
     except Exception as e:
         print(f'Unable to open browser, please check your browser and try again. {e}')
-        st.write('could not open page:', e)
-        print(e)
+        st.write('could not solve the wordle, sorry about that... :-(')
+        return
         time.sleep(3)
-    btns = driver.find_elements(By.TAG_NAME, 'button') # updated
+    btns = driver.find_elements(By.TAG_NAME, 'button')
     found = False
     for btn in btns:
         if btn.text.lower() == 'play':
@@ -73,7 +73,7 @@ def solve():
     # get list of english dictionary words
     words = word_proc.get_words()
     good_words = word_proc.get_good_words(bad_letters, words,middle_letter)
-    st.write(good_words) # uncomment
+    st.write(good_words)
     print(good_words)
     driver.close()
  
