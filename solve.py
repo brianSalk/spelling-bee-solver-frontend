@@ -4,6 +4,7 @@ import sys
 import argparse
 import word_proc
 import streamlit as st
+from driver_stuff import get_chrome_driver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -40,7 +41,7 @@ def solve():
     st.write('opening chrome')
     driver = None
     try:
-        driver = selenium.webdriver.Chrome(options=options) # switch back to Chrome
+        driver = get_chrome_driver() # switch back to Chrome
         url = 'https://www.nytimes.com/puzzles/spelling-bee'
         driver.get(url)
         time.sleep(2)
