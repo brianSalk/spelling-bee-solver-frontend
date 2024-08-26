@@ -79,9 +79,9 @@ def solve():
         if letter != middle_letter:
             outer_letters += letter.upper()
             outer_letters += " "
-    st.write(f'outerletters: green[{outer_letters}]')
+    st.write(f'outerletters: :green[{outer_letters}]')
 
-    st.write(f'middle letter: orange[{middle_letter.upper()}]')
+    st.write(f'middle letter: :orange[{middle_letter.upper()}]')
     st.write(good_words)
     print(good_words)
     driver.close()
