@@ -45,6 +45,7 @@ def solve():
         driver = get_chrome_driver() # switch back to Chrome
         url = 'https://www.nytimes.com/puzzles/spelling-bee'
         driver.get(url)
+        st.write('opened the page')
         time.sleep(2)
         # commented out section is for the purr-blocker, I think it is some anit-scraping thing
         """
@@ -55,7 +56,7 @@ def solve():
         print(f'Unable to open browser, please check your browser and try again. {e}')
         print(e)
         time.sleep(3)
-    btns = driver.find_elements(By.TAG_NAME, 'button')
+    btns = driver.find_elements(By.TAG_NAME, 'button') # updated
     found = False
     for btn in btns:
         if btn.text.lower() == 'play':
