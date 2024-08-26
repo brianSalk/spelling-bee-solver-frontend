@@ -54,6 +54,7 @@ def solve():
         """
     except Exception as e:
         print(f'Unable to open browser, please check your browser and try again. {e}')
+        st.write('could not open page:', e)
         print(e)
         time.sleep(3)
     btns = driver.find_elements(By.TAG_NAME, 'button') # updated
