@@ -42,7 +42,7 @@ def solve():
     st.write('opening chrome')
     driver = None
     try:
-        driver = get_chrome_driver() # switch back to Chrome
+        driver = get_chrome_webdriver() # switch back to Chrome
         url = 'https://www.nytimes.com/puzzles/spelling-bee'
         driver.get(url)
         st.write('opened the page')
