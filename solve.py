@@ -20,7 +20,6 @@ def solve():
         driver = get_chrome_webdriver()
         url = 'https://www.nytimes.com/puzzles/spelling-bee'
         driver.get(url)
-        time.sleep(2)
         # commented out section is for the purr-blocker, I think it is some anit-scraping thing
         """
         element = driver.find_element(By.XPATH,"//div[@class='purr-blocker-card pz-hide-games-app pz-hide-newsreader']")
@@ -30,8 +29,7 @@ def solve():
         print(f'Unable to open browser, please check your browser and try again. {e}')
         st.write('could not solve the wordle, sorry about that... :-(')
         return
-        time.sleep(3)
-    btns = driver.find_elements(By.TAG_NAME, 'button')
+    btns = WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.TAG_NAME, 'button')))
     found = False
     for btn in btns:
         if btn.text.lower() == 'play':
