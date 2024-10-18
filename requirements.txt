@@ -1,3 +1,4 @@
 selenium==4.7.2
 streamlit==1.19.0
 webdriver_manager
+altair==4.1.0
